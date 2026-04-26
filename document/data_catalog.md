@@ -6,8 +6,8 @@ Data is refined and organized into structured format, making it easier for analy
 **dimension table** and **fact tables** for specific business metrics.
 
 ## 1. gold.dim_customers
-    - **Purpose:** Stored customer details which enrichs with demographic and geographic data
-    - **Columns:**
+    -**Purpose:** Stored customer details which enrichs with demographic and geographic data
+    -**Columns:**
     
     |**Column Name**|**Data Type**|**Description**|
 
