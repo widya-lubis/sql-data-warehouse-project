@@ -10,7 +10,7 @@ Data is refined and organized into structured format, making it easier for analy
   | Column Name  | Data Type | Description     |
 |-------|------|----------|
 | customer_key | INT | Surrogate key uniquely identitifying each customer record in the dimension table  |
-| customer_id | INT | unique numerical identifier  |
+| customer_id | INT | Unique numerical identifier of customer |
 | customer_number | NVARCHAR(50) | Alphanumeric identifier representing the customer  |
 | first_name | NVARCHAR(50) | The customer's first name  |
 | last_name | NVARCHAR(50) | The customer's last name  |
