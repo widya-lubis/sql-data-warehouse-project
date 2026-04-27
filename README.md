@@ -4,21 +4,27 @@ This project demonstrates a comperehensive data warehousing and analytical solut
 
 
 ## Projects Requirements
-### Building a data warehouse (Data Engineering)
+## Building a data warehouse (Data Engineering)
 
 ### Objectives
 Develop a modern data warehouse using SQL Server to consolidate sales data, enabling analytical reporting and informed decisions making.
 
-#### Specifications
+### Project Data Warehouse Overview
+1. **Data Architecture**: Create a Modern Data Warehouse using Medallion Architecture.
+2. **ETL Pipelines**: Extracting, transforming, and loading data from source systems into the warehouse.
+3. **Data Modeling**: Developing fact and dimension tables to optimize the analytical queries.
+4. **Analytics & Reporting**: Creating SQL-based reports for actionable insights.
+
+### Specifications
 - **Data Sources**: Import data from two source system (ERP and CRM) provided as CSV files.
 - **Data Quality**: Clean and resolved data quality issues prior to analysis.
 - **Integration**: Combine both sources into a single, user-friendly data model designed for analytical queries. 
 - **Scope**: Focus on the latest datasets only; historization of data is not required.
 - **Documentations**: Provide clear documentation of the data model to support both business stakeholders and analytical teams
 
-### BI: Analytics & Reporting (Data Analytics)
+## Analytics & Reporting (Data Analytics)
 
-#### Objective
+### Objective
 Develop SQL-based analytics to deliver detailed insights into:
 - **Customer Behavior**
 - **Product Performance**
