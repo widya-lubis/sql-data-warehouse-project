@@ -9,8 +9,16 @@ Data is refined and organized into structured format, making it easier for analy
   
   | Column Name  | Data Type | Description     |
 |-------|------|----------|
-|  |    |   |
-|  |    |   |
+| customer_key | INT |   |
+| customer_id | INT |   |
+| customer_number | INT |   |
+| first_name | NVARCHAR |   |
+| last_name | NVARCHAR |   |
+| country | NVARCHAR |   |
+| marital_status | NVARCHAR |   |
+| gender | NVARCHAR |   |
+| create_date | DATE |   |
+| birthdate | DATE |   |
 
    
   
