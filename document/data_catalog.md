@@ -38,11 +38,11 @@ Data is refined and organized into structured format, making it easier for analy
 | start_date | DATE |  The date when the product became available for sale or use|
   
 
-## 2. gold.fact_sales   
+## 3. gold.fact_sales   
   
 | Column Name  | Data Type | Description     |
 |-------|------|----------|
-| order_number | INT | Alphanumeric code identifier representing the sales order |
+| order_number | NVARCHAR(50) | Alphanumeric code identifier representing the sales order |
 | product_key | INT | Surrogate key linking the order to the product dimension table |
 | customer_key | INT | Surrogate key linking the order to the custome dimension table |
 | order_date | DATE | The date when the order was placed|
