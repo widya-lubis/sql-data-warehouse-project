@@ -22,6 +22,13 @@ Develop a modern data warehouse using SQL Server to consolidate sales data, enab
 - **Scope**: Focus on the latest datasets only; historization of data is not required.
 - **Documentations**: Provide clear documentation of the data model to support both business stakeholders and analytical teams
 
+### Data Architecture
+This project uses the Medallion Architecture method. The three layers are described as follows:
+<img width="982" height="541" alt="Data Warehouse Architeture drawio" src="https://github.com/user-attachments/assets/dc471633-2208-450a-9a4b-d1d3b3b8c5a4" />
+
+
+
+
 ## 📊 Analytics & Reporting (Data Analytics)
 
 ### Objective
