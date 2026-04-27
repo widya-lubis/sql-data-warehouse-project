@@ -4,7 +4,7 @@ This project demonstrates a comperehensive data warehousing and analytical solut
 
 
 ## Projects Requirements
-## Building a data warehouse (Data Engineering)
+## 🗃️ Building a data warehouse (Data Engineering)
 
 ### Objectives
 Develop a modern data warehouse using SQL Server to consolidate sales data, enabling analytical reporting and informed decisions making.
@@ -22,7 +22,7 @@ Develop a modern data warehouse using SQL Server to consolidate sales data, enab
 - **Scope**: Focus on the latest datasets only; historization of data is not required.
 - **Documentations**: Provide clear documentation of the data model to support both business stakeholders and analytical teams
 
-## Analytics & Reporting (Data Analytics)
+## 📊 Analytics & Reporting (Data Analytics)
 
 ### Objective
 Develop SQL-based analytics to deliver detailed insights into:
